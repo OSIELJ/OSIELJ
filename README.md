@@ -1,16 +1,20 @@
-## Hi there 👋
+-->## Olá! Eu sou o Osiel Junior 🖐️
 
-<!--
-**OSIELJ/OSIELJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou atualmente estudando Sistema de Informação na UFVJM ...
+- 🌱 Estudando programação Android ...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## O que tenho estudado
+
+<div style="display: inline_block">
+<img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+</div><br/>
+
+Apaixonado por tecnologia e aplicativos móveis.
+
+
